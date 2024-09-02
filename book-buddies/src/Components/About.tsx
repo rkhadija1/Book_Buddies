@@ -10,7 +10,7 @@ import React, { useState } from 'react';
 function About() {
 
        return (
-        <span> About</span> 
+        <span> About hello!</span> 
    
 );
 }
