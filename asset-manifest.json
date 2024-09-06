@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Book_Buddies/static/css/main.9a5c6096.css",
+    "main.js": "/Book_Buddies/static/js/main.34ce8434.js",
+    "static/js/453.24e1593b.chunk.js": "/Book_Buddies/static/js/453.24e1593b.chunk.js",
+    "index.html": "/Book_Buddies/index.html",
+    "main.9a5c6096.css.map": "/Book_Buddies/static/css/main.9a5c6096.css.map",
+    "main.34ce8434.js.map": "/Book_Buddies/static/js/main.34ce8434.js.map",
+    "453.24e1593b.chunk.js.map": "/Book_Buddies/static/js/453.24e1593b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.34ce8434.js"
+  ]
+}
